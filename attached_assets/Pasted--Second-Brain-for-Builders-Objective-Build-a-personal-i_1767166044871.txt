@@ -1,0 +1,141 @@
+“Second Brain for Builders”
+
+Objective
+
+Build a personal intelligence system for founders, developers, and creators that captures ideas, connects them automatically, and surfaces insights at the right time — not just a notes app, but a thinking partner.
+
+Core Concept
+
+Most people write notes.
+
+Smart people forget them.
+
+Great builders reuse them at the right moment.
+
+This product turns:
+
+
+
+random thoughts
+
+meeting notes
+
+voice memos
+
+links
+
+unfinished ideas
+
+into a living knowledge graph that evolves with the user.
+
+Key Features (V1)
+
+1. Frictionless Capture
+
+Add notes via:
+
+text
+
+voice (auto-transcribed)
+
+browser clipper
+
+No folders required — tagging is optional, AI-first.
+
+2. AI-Powered Connections
+
+Automatically link notes by:
+
+similar ideas
+
+related projects
+
+recurring themes
+
+Visual graph view (Obsidian-style, but cleaner).
+
+3. Contextual Reminders
+
+Example:
+
+“You mentioned this idea 3 weeks ago while working on Project X — want to revisit it?”
+
+Time-based + context-based resurfacing.
+
+4. Idea Evolution Timeline
+
+See how an idea evolved over time:
+
+original thought
+
+refinements
+
+decisions made
+
+abandoned paths
+
+Version history is mandatory.
+
+5. Ask Your Brain
+
+Chat interface:
+
+“What ideas do I have related to fintech in Sri Lanka?”
+
+“Summarize everything I’ve thought about this startup idea.”
+
+Answers must cite the original notes.
+
+Advanced Features (V2+)
+
+Mood-aware suggestions (based on writing tone)
+
+Daily “Idea Digest”
+
+Project mode (ideas grouped by goal)
+
+Export insights to Notion / Markdown / PDF
+
+Offline-first with sync
+
+Tech Expectations
+
+Frontend: Modern, minimalist, dark/light mode
+
+Backend: Scalable, API-first
+
+AI:
+
+embeddings for semantic search
+
+summarization
+
+relationship extraction
+
+Data:
+
+versioned notes
+
+vector storage
+
+Security:
+
+end-to-end encryption (roadmap)
+
+Design Direction
+
+Calm, black & white aesthetic
+
+Subtle motion, no clutter
+
+Feels like thinking, not working
+
+Success Metric
+
+If a user says:
+
+
+
+“This app reminds me of things I didn’t even remember I knew.”
+
+You’ve won.
